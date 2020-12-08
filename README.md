@@ -1,5 +1,5 @@
 # akhil-portfolio
-
+![alt text](https://github.com/Akhilkmr78/Weatherable/blob/master/weatherable-mobile-view.png?raw=true)
 ## Project setup
 ```
 npm install
